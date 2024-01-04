@@ -1,3 +1,3 @@
 # first-repo
 This is my first repository
-\n Author: Dhruv Tiwari
+<br> <h1>Author: Dhruv Tiwari</h1>
